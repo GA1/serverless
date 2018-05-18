@@ -1,0 +1,17 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+*.DS_Store
+.idea/
+*iml
+
+# javascript files
+node_modules/
+
+
+# python files
+*.pyc
